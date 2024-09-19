@@ -54,3 +54,4 @@ Veri seti, farklı yıllara ait enerji üretim bilgilerini içermektedir. Her ka
 Proje sonunda, farklı regresyon modellerinin performansları karşılaştırılmış ve görselleştirilmiştir. MSE ve R² skorları ile modellerin başarıları değerlendirilmiştir.
 
 
+## KAGGLE LİNKİ:[KAGGLE](https://www.kaggle.com/code/baharsevinti/notebook816237d3d4)
